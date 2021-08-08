@@ -58,7 +58,7 @@ namespace LogToApi.Core.Services
             var result = new LogRecord
             {
                 DateTime = DateTime.ParseExact(GetValue(rawData, "time", " level").Trim(new[] {'"'}),
-                    "yyyy-MM-dd'T'hh:mm:sszzz",
+                    "yyyy-MM-dd'T'HH:mm:sszzz",
                     CultureInfo.InvariantCulture,
                     DateTimeStyles.None),
                 Level = GetValue(rawData, "level", " msg"),

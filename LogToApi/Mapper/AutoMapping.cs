@@ -8,9 +8,11 @@ namespace LogToApi.Mapper
         public AutoMapping()
         {
             CreateMap<Common.Models.LogRecord, LogRecord>()
-                .ForMember(
-                    d=>d.ErrorDescription, 
-                    s => s.MapFrom(c => c.ErrorText));
+                .ForMember(d=>d.ErrorDescription, 
+                    s => s.MapFrom(c => c.ErrorText))
+                .ForMember(d=>d.DateTime, 
+                    s=>s.MapFrom(c=>c.DateTime.ToString("yyyy-MM-dd HH:mm:ss")));
+            
         }
     }
 }
