@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0e42c575_002Dcd76_002D4f55_002Db07e_002D4994d8096670/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from HpoolServiceTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;081FFE95-9245-4175-99A5-92CD564F0636/d:Core/f:HpoolServiceTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3f41a1ea_002D4a12_002D4e70_002D90b0_002Db89dbd5e189b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetRecordTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::081FFE95-9245-4175-99A5-92CD564F0636::net5.0::LogToApi.Tests.Core.HpoolServiceTests.GetRecordTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5b81efac_002D2720_002D422b_002Db11d_002D8aef0c3352ac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetRecordTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;081FFE95-9245-4175-99A5-92CD564F0636/d:Core/f:HpoolServiceTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=75f30ea4_002Dd00a_002D4a44_002Da612_002D72012479b1d5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetRecordTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::081FFE95-9245-4175-99A5-92CD564F0636::net5.0::LogToApi.Tests.Core.HpoolServiceTests.GetRecordTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9ef1dad1_002D3f48_002D4630_002D94ea_002D768eb4ad397c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetRecordTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::081FFE95-9245-4175-99A5-92CD564F0636::net5.0::LogToApi.Tests.Core.HpoolServiceTests.GetRecordTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c69b68c0_002D1193_002D40b3_002Db5c4_002Dc5941eebd2dc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from HpoolServiceTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;081FFE95-9245-4175-99A5-92CD564F0636/d:Core/f:HpoolServiceTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
